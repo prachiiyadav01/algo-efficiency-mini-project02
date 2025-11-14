@@ -1,1 +1,2 @@
 This project demonstrates how different algorithmic strategies can be applied to real-world problems. The notebook includes implementations, performance profiling, and complexity analysis for each problem. The strategies covered include Greedy Algorithms, Dynamic Programming, Backtracking, and Brute Force.
+It contains two Jupyter notebooks demonstrating core algorithmic concepts using practical, real-world problems. Together, they cover Greedy algorithms, Dynamic Programming, Backtracking, Brute Force, and Graph Algorithms with performance analysis.
